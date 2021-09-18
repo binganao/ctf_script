@@ -4,7 +4,7 @@ import re
 
 from requests.api import get
 
-target_url = "https://www.jb51.net/article/54015.htm"
+target_url = ""
 headers = {
   # "X-Forwarded-For": "127.0.0.1",
   # "Cookie": "", 
